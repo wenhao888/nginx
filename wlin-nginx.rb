@@ -74,8 +74,6 @@ class WlinNginx < Formula
       --with-stream
       --with-stream_realip_module
       --with-stream_ssl_module
-      --add-module=/Users/wenhaolin/work2/ngx_devel_kit
-      --add-module=/Users/wenhaolin/work2/lua-nginx-module
       --with-stream_ssl_preread_module
       --add-module=/Users/wenhaolin/work2/ngx_devel_kit
       --add-module=/Users/wenhaolin/work2/lua-nginx-module
